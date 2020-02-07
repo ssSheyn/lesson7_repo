@@ -14,6 +14,6 @@ def files_count(path):
 
     print(x)
     print('Number of files in current dir is: ' + str(counter))
-
+# just a comment
 
 files_count('c:/Windows')
